@@ -1,7 +1,8 @@
-def calculations():
-    def add(x, y):
-        return x + y
+def add(x, y):
+    return x + y
 
+
+def calculations():
     result = add(1, 1)
     print(f"1 + 1 är {result}.")
 
