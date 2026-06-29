@@ -1,3 +1,6 @@
+# Demonstrera cirkulär referens genom att avkommentera nästa rad
+# from main import circular_example
+
 todo_items = []
 
 
